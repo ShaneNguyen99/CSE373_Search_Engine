@@ -1,0 +1,72 @@
+# Feedback
+
+Group remmel: ayu1998, hoanguye
+
+Commit hash: 7f0e6f8a3eb587c61aa58158525e7f7dc992775e
+
+Final score: 60 / 60
+
+## Style check
+
+Score: 5 / 5
+
+## ArrayHeap
+
+Score: 15 / 15
+
+-   PASS: testRemoveMinEmptyQueue
+-   PASS: testSimpleUsage
+-   PASS: testAttemptNullEntries
+-   PASS: testPeekMin
+-   PASS: testInternalStructure
+-   PASS: testStringEntries
+-   PASS: testPeekEmptyQueue
+-   PASS: testInsertingDuplicates
+-   PASS: testNoisyUsage
+-   PASS: testInsertingManyElements
+
+## Searcher
+
+Score: 15 / 15
+
+-   PASS: testKEqualsN
+-   PASS: testWhenKIsBiggerThanN
+-   PASS: testNonIntegerEntries
+-   PASS: testKIs1
+-   PASS: testNIs1
+-   PASS: testInputListNotMutated
+-   PASS: testWhenKIsSameAsN
+-   PASS: testWhenKIsNegative
+-   PASS: testWhenKIsSmallerThanN
+-   PASS: testIsNLogK
+-   PASS: testWhenKIsZero
+
+## TestArrayHeapFunctionality
+
+Score: 10 / 10
+
+-   PASS: AllOk
+-   PASS: NoResize
+-   PASS: NoExceptionInPeek
+-   PASS: NoExceptionInRemovemin
+-   PASS: NoExceptionInInsert
+-   PASS: InsertDoesNotUpdateSize
+-   PASS: RemoveminDoesNotUpdateSize
+-   PASS: AssumesAllParentsHaveFourChildren
+
+## TestSortingStress
+
+Score: 5 / 5
+
+-   PASS: AllOk
+-   PASS: DeliberatelyInefficient
+
+## TestTopKSortFunctionality
+
+Score: 10 / 10
+
+-   PASS: AllOk
+-   PASS: DoesNotThrowException
+-   PASS: DoesNotHandleKZeroCase
+-   PASS: AssumesKAlwaysLessThanN
+-   PASS: OffByOneErrorInLoop
