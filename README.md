@@ -12,7 +12,7 @@
 
 Pleas visit the course [website][1] for instructions on this homework.
 
-[1]: https://courses.cs.washington.edu/courses/cse373/18sp/project3/part3.html
+[1]: https://courses.cs.washington.edu/courses/cse373/18sp/project3/overview.html
 [2]:https://github.com/ShaneNguyen99/CSE373_Search_Engine/blob/master/src/main/java/datastructures/concrete/dictionaries/ChainedHashDictionary.java
 [3]: https://github.com/ShaneNguyen99/CSE373_Search_Engine/blob/master/src/main/java/datastructures/concrete/ArrayHeap.java
 [4]:https://github.com/ShaneNguyen99/CSE373_Search_Engine/blob/master/src/main/java/datastructures/concrete/DoubleLinkedList.java
